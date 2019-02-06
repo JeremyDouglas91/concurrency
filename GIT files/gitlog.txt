@@ -1,0 +1,42 @@
+commit 01658ccac10f7922bf19f0d2046db4c9ff471a0a
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Thu Sep 27 19:52:48 2018 +0200
+
+    - All code ready for submission
+
+commit 838957b46f575f8fafb2b2e4463b0dc95a9c92a1
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Wed Sep 26 17:31:29 2018 +0200
+
+    - Mutable boolean and YearCount object static/class variables
+
+commit 69472db2fd27359a2db7c1b48a4990e98e176699
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Tue Sep 25 19:04:18 2018 +0200
+
+    - All locking in threads working according to global order
+    - Ensured thread safety for swing library
+    - code commented neatly
+    - makeFileWritten
+
+commit af5dec420a74367ab9ed59524ec92291385ba0c0
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Mon Sep 24 19:39:07 2018 +0200
+
+    - Simulation working (not locking properly)
+    - All buttons working
+
+commit 19da504afc24d2decad80db42886b88355b53418
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Sun Sep 23 15:12:24 2018 +0200
+
+    - data loaded properly
+    - block objects created
+    - buttons & year counter added to GUI
+
+commit efeba66c3ff3076dc8f25b1da02ca81d2605fc91
+Author: jeremyduplessis <dpljer001@myuct.ac.za>
+Date:   Tue Sep 18 14:16:38 2018 +0200
+
+    -test
+
